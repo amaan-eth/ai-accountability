@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ESNEXT",
+    "module": "commonjs",
+    "lib": ["ESNEXT", "DOM"],
+    "declaration": true,
+    "sourceMap": true,
+    "outDir": "./out",
+    "rootDir": "./src",
+    "strict": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["test", "out", "node_modules"]
+}

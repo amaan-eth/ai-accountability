@@ -1,0 +1,27 @@
+/-resources
+/demos
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# production
+/build
+
+/data
+
+# local env files
+.env
+.env*.local
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+.DS_Store
+.vscode

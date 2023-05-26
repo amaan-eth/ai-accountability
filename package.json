@@ -1,0 +1,19 @@
+{
+  "name": "ai-accountability",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "@types/node-telegram-bot-api": "^0.61.6",
+    "langchain": "^0.0.81",
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.2.3",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.4.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {}
+}
